@@ -1,1 +1,1 @@
-bctdeanao;
+ console.log("AIIIIIIIIIIIIIIINNNN DESGRAÇAAAAA TIRAAA QUE EU VOU CAGARR!!!!!");gi
